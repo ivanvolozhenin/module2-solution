@@ -40,6 +40,17 @@ p {
 	padding: 5px;
 }
 
+#h2_1 {
+	background-color: rgb(211,151,152);
+}
+#h2_2 {
+	background-color: rgb(191,70,70); 
+	color: white;
+}
+#h2_3 {
+	background-color: rgb(228,208,155);
+}
+
 .item {
 	float: left;
 	background: rgb(153,153,153);
@@ -72,7 +83,7 @@ p {
 		width: 25.00%;
 	}
 	.col-lg-4 {
-		width: 32%;
+		width: 33.33%;
 	}
 	.col-lg-5 {
 		width: 41.66%;
@@ -124,7 +135,7 @@ p {
 		width: 41.66%;
 	}
 	.col-md-6 {
-		width: 48%;
+		width: 50%;
 	}
 	.col-md-7 {
 		width: 58.33%;
@@ -142,7 +153,7 @@ p {
 		width: 91.66%;
 	}
 	.col-md-12 {
-		width: 96%;
+		width: 100%;
 	}
 }
 
